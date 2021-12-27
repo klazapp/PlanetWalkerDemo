@@ -2,6 +2,13 @@
 
 PlanetWalkerDemo is a simple game that demonstrates how a planet walking logic may be implemented. A similar logic was implemented in the game Planet Om Nom Nom that is available on both [GooglePlay](https://play.google.com/store/apps/details?id=com.klausology.planetomnomnom) and [Apple](https://apps.apple.com/us/app/planet-om-nom-nom/id1521638287) app store.
 
+
+## How to
+1) Open MainGame from the Scenes folder
+2) Enter play mode
+3) Drag on screen to start moving!
+
+
 ## Documentation
 
 The basic planet walker logic uses a parent-child combination to execute a spherical movement around the planet. The parent is centered to the planet and provides the basic planet movement, the child is used as an indicator to the direction the player might be facing.
