@@ -8,7 +8,7 @@ The basic planet walker logic uses a parent-child combination to execute a spher
 
 ## Showcase
 
-![](https://github.com/klazapp/DMICustomDrawCall-Jobified-/blob/main/Assets/GifShowCase/Showcase-1.gif)
+![](https://github.com/klazapp/PlanetWalkerDemo/blob/main/Assets/GifShowCase/Showcase-1.gif)
 
 
 This gif shows basic player movement, bullet movement and enemy movement.
